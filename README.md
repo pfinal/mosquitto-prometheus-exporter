@@ -16,3 +16,7 @@ docker run -d --restart=always --name mosquitto-exporter -p 9100:9100 \
   -v $PWD/runtime:/data/runtime \
   pfinal/mosquitto-prometheus-exporter
 ```
+
+```
+http://localhost:9100
+```
