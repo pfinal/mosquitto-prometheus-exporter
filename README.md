@@ -22,7 +22,7 @@ docker run -d --restart=always --name mosquitto-exporter -p 9100:9100 \
 ```
 
 ```
-http://localhost:9100
+http://localhost:9100/
 ```
 
 ```
