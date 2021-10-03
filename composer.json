@@ -1,0 +1,7 @@
+{
+    "require": {
+        "workerman/workerman": "^4.0",
+        "workerman/mqtt": "^1.1",
+        "vlucas/phpdotenv": "^3.4"
+    }
+}
