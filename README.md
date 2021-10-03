@@ -1,7 +1,7 @@
 # Mosquitto Prometheus Exporter
 
-* ![Mosquitto](https://mosquitto.org/)
-* ![Prometheus](https://prometheus.io/)
+* [Mosquitto](https://mosquitto.org/)
+* [Prometheus](https://prometheus.io/)
 
 Development Environment
 
